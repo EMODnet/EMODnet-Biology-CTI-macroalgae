@@ -2,7 +2,7 @@
 
 ## Introduction
 
-{{Ocean warming is expected to drive quick shifts in marine species distributions modifying coastal communities.Previous research has shown how the southern Bay of Biscay is particularly affected and the canopy-forming subtidal and intertidal macroalgal assemblages are expected to be replaced by turf-forming Mediterranean-like communities with warmer affinities by the end of the century. The effect of temperature on macroalgal communities could be assesed using thermal metrics that can target temperature effects alone. An example is the Community Temperature Index (CTI) which is an abundance-weighted mean of the species’ optimal temperature. It has been previously used to understand the thermal preferences of different organisms such us birds, fish or invertebrates.}}
+{{Ocean warming is expected to drive quick shifts in marine species distributions modifying coastal communities. Previous research has shown how the southern Bay of Biscay is particularly affected and the canopy-forming subtidal and intertidal macroalgal assemblages are expected to be replaced by turf-forming Mediterranean-like communities with warmer affinities by the end of the century. The effect of temperature on macroalgal communities could be assesed using thermal metrics that can target temperature effects alone. An example is the Community Temperature Index (CTI) which is an abundance-weighted mean of the species’ optimal temperature. It has been previously used to understand the thermal preferences of different organisms such us birds, fish or invertebrates.}}
 
 ## Directory structure
 
