@@ -37,8 +37,6 @@ The scripts used to obtain this data are included here
 
 ## More information:
 
-### References
-
 ### Code and methodology
 
 {{CTI is the weighted mean of species’ thermal preferences calculated for a community. The temperature preference of species could be represented by their species temperature index (STI), which is the 50th percentile of the existing temperatures within their distribution ranges. Here, the thermal worldwide distribution ranges of each species included in the dataset of intertidal macroalgae from NW Spain (dataset ID: 5973) were modelled using MAXENT with default settings (Code in '4_models.R'). Occurrences to train models were gathered from the data series mentioned above and processed to reduce sampling bias, missidentifcations, errors and duplications. The codes used for that purpose are in '1_download_BR.R' and '3_nearest_cell.R'. After running the models, STIs were estimated from the resulting binary maps (Code in '4_models.R'). Finally, CTIs were calculated combining observation data from the intertidal dataset and the calculated/modelled STIs, as explained in the following script: '5_cti.R'}.}
