@@ -33,7 +33,7 @@ The scripts used to obtain this data are included here
 
 ## Data product
 
-This product provides the Community Temperature Index (CTI) of macroalgae intertidal communities from NW Spain. The CTI has been calculated for 18 sites along a longitudinal thermal gradient in NW Spain and two different years (2011 and 2017). Results are stored in a csv file with the coordinates of each site, their codes, the sampling year and the mean CTI.
+This product provides the Community Temperature Index (CTI) of macroalgae intertidal communities from NW Spain. The CTI has been calculated for 18 sites along a longitudinal thermal gradient in NW Spain, two intertidal levels (Low and Mid) and two different years (2011 and 2017). Results are stored in a csv file with the coordinates of each site ("decimalLongitude" and "decimalLatitude" columns), their codes ("Site" and "Intertidal_level" columns), the sampling year ("Year" column) and the mean CTI ("CTI column". 
 
 ## More information:
 
@@ -45,11 +45,7 @@ CTI is the weighted mean of species’ thermal preferences calculated for a comm
 
 This product should be cited as:
 
-Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2023) Community Temperature Index (CTI) for intertidal macroalgae in NW Spain. Data product created under the European Marine Observation Data Network (EMODnet) Biology Phase V.
-
-Available to download in:
-
-{{link_download}}
+Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2025) Community Temperature Index (CTI) for intertidal macroalgae in NW Spain.Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project CINEA/EMFAF/2022/3.5.2/SI2.895681, funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.
 
 ### Authors
 
