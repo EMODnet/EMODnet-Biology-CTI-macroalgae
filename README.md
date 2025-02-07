@@ -33,7 +33,7 @@ The scripts used to obtain this data are included here
 
 ## Data product
 
-This product provides the Community Temperature Index (CTI) of macroalgae intertidal communities from NW Spain. The CTI has been calculated for 18 sites along a longitudinal thermal gradient in NW Spain, two intertidal levels (Low and Mid) and two different years (2011 and 2017). Results are stored in a csv file with the coordinates of each site ("decimalLongitude" and "decimalLatitude" columns), their codes ("Site" and "Intertidal_level" columns), the sampling year ("Year" column) and the mean CTI ("CTI column". 
+This product provides the Community Temperature Index (CTI) of macroalgae intertidal communities from NW Spain. The CTI has been calculated for 18 sites along a longitudinal thermal gradient in NW Spain, two intertidal levels (Low and Mid) and two different years (2011 and 2017). Results are stored in a csv file with the coordinates of each site ("decimalLongitude" and "decimalLatitude" columns), their codes ("Site" and "Intertidal_level" columns), the sampling year ("Year" column) and the mean CTI ("CTI column"). 
 
 ## More information:
 
