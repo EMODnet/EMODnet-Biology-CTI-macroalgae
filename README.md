@@ -47,6 +47,15 @@ This product should be cited as:
 
 Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2025) Community Temperature Index (CTI) for intertidal macroalgae in NW Spain.Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project CINEA/EMFAF/2022/3.5.2/SI2.895681, funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.
 
+Available for download in:
+
+Data: https://erddap.emodnet.eu/erddap/files/biology_8780_20a9_a982_ec71/macroalgae_thermaldistribution_order.nc (global output)
+
+Metadata record: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/6d617269-6e65-696e-666f-000000008772 and https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/6d617269-6e65-696e-666f-000000008780
+
+EMODnet Viewer: https://emodnet.ec.europa.eu/geoviewer/?layers=6d617269-6e65-696e-666f-000000008772:1:1&basemap=ebwbl&active=14163&bounds=-7473683.368577629,3082466.814999999,10427724.524577629,11459766.29&filters=&projection=EPSG:3857 and https://emodnet.ec.europa.eu/geoviewer/?layers=14161@6d617269-6e65-696e-666f-000000008780:1:1,12985@6d617269-6e65-696e-666f-000000008780:1:1&basemap=ebwbl&active=14161&bounds=-7473683.368577629,3082466.814999999,10427724.524577629,11459766.29&filters=&projection=EPSG:3857
+
+
 ### Authors
 
 Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A.
